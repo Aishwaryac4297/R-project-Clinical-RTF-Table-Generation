@@ -30,6 +30,7 @@ Built using:
 
 ### 📌 Sample Table Output
 
+![Image](https://github.com/user-attachments/assets/b62c48b2-47be-49ad-9080-58e622ff2821)
 
 
 ---
