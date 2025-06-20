@@ -1,5 +1,5 @@
 library(tidyverse)
-setwd('C:\\Users\\Aishwarya\\Desktop\\project+notes')
+setwd('C:\\Users\\Desktop\\project+notes')
 df<-read.csv('R Project Clinical Report(Demographic Table)Raw data.csv',stringsAsFactors = T)
 View(df)
 cnts<-df %>% group_by(trtcd) %>% summarize(n=n())
